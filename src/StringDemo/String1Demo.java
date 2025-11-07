@@ -6,6 +6,11 @@ public class String1Demo {
 		
 		String str="hello java programming";
 		
+		String sp[]=str.split(" ");
+		String rev="";
+		
+		
+		
 	}
 
 }
