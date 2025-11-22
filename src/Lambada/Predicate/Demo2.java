@@ -1,4 +1,4 @@
-package Lambada;
+package Lambada.Predicate;
 
 import java.util.ArrayList;
 import java.util.function.Predicate;
