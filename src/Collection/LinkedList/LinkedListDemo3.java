@@ -15,6 +15,9 @@ public class LinkedListDemo3 {
 		System.out.println(l);
 		l.addLast("ox");
 		System.out.println(l);
+		l.removeFirst();
+		l.removeLast();
+		System.out.println(l);
 	}
 
 }
