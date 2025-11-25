@@ -27,7 +27,7 @@ class Target {
 		if(count>0)
 		{
 			System.out.println("Total Count of number "+count);
-		}else
+		}else	
 		{
 			System.out.print("number not found in array");
 		}
