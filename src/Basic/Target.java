@@ -2,6 +2,7 @@ package Basic;
 
 import java.util.Scanner;
 
+
 class Target {
 	public static void main(String[] args) {
 	
@@ -31,5 +32,6 @@ class Target {
 		{
 			System.out.print("number not found in array");
 		}
+		sc.close();
 	}
 }
