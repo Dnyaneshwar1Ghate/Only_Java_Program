@@ -11,6 +11,7 @@ public class RemoveZeroFromArry {
 		StringBuilder sb = new StringBuilder();
 
 		for (int i = 0; i < arr.length; i++) {
+
 			if (Character.getNumericValue(arr[i]) != 0) {
 				sb.append(arr[i]);
 			}
