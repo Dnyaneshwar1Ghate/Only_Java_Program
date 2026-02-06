@@ -1,0 +1,31 @@
+EPAM First Round Interview Questions:
+
+Introduce YourSelf and Tools and Tecnologies you Worked?
+Where to use OOPS concept in your Framework?
+What is method Overloading and Overriding in java with example?
+What is Static in java?
+What is POM and PageFactory?
+What is Singleton Design Pattern? write the Program?
+what is the by.id in findElement method?
+What is the Different Interfaces in Selenium?
+What are the different Exceptions you faced in selenium?
+What is the StealElementReference Exeception and How do you handlled this?
+What are the Different classes in collections FrameWork?
+What is the Difference bet ArrayList and LinkedList?
+We need to run method when only our prevous method is pass then how you do this? ans:DependsOnMethod Attribute of TestNg
+When we need to run same method multiple times then how would you run this? ans:InnocationCount Attribute
+Why we Need to run same Method multiple Times?
+When we need to achieve DDT by using TestNg how we achieve? ans:DataProvider Annotation
+What is the written type of DataProvider Annotaion?
+what is git stash command?
+what is the Difference bet git pull & git merge ?
+How to delete any branch in git?
+How to read data from exel files?
+what is the CI in CICD?
+What are the different variables in PostMan?
+example:we have two requests in collection and we need to use 1st request Response in 2nd Request How You do this?
+
+
+
+
+ 

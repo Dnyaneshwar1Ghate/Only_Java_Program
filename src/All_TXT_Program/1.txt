@@ -1,0 +1,18 @@
+What is SDLC
+What are the four phases of STLC
+What is AUT 
+When you found bug in AUT then what is your apporoch
+Are you created framework from scrach or you work on already created framework
+What is DDT
+Are you assign One User Story to Two testers
+What are the Automation Testing Types
+What is JENKINS and Why it is used
+What is POM
+Which framework you are using in Your Current project
+
+
+Scenario to Automate by Using Selenium with JAVA
+
+
+
+

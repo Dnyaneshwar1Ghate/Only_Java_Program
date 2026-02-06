@@ -1,0 +1,16 @@
+public class SumofDigits{
+	public static void main(String args[]){
+
+	int num=142,sum=0,a,b;
+
+	while(num>0)
+	{
+		a=num%10;
+		b=num/10;
+		sum=sum+a;
+		num=b;
+	}
+	System.out.println("Sum of Given number is:"+sum);
+
+}
+}

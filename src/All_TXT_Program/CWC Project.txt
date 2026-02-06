@@ -1,0 +1,29 @@
+CORPORATE WEB CONTROL
+
+
+1)Powerful Website Blocking
+	Blocking allows to deny access to time-wasting websites and social networks with a simple point and click. This outstanding and an easy to use feature keeps your team focussed on your business and projects.
+
+2)Block Category
+	No need to individually add each web-site in a block list. You can block websites as per different popular categories like Social Networking facebook,instagram,twitter,linkedin etc. Video, Music,game, Porn, etc.
+
+3)Content Filter Keywords
+	Admins can add keywords to block web pages. Access is restricted based on content tied to these keywords.
+
+4)Time Based Internet Control
+	Admins can toggle Internet access based on day and time. Different time policies can apply to each group.
+
+5)Set Download Size Limit
+	Set a File Size Download limit in Policy to block large files such as .mp3, videos, and installers. This saves internet speed and bandwidth.
+
+6)Reporting Dashboard
+	Admins can monitor all organization or PC top websites. They can add approved sites to the Ignore List for easier monitoring of new unapproved sites.
+
+7)Secure Sites
+	Browser connects to SSL-secured website, sharing encrypted data, ensuring safe access to work-related sites.
+
+8)User Request
+	Users may request website access, notifying the Admin who can then add it to the Allow-List.
+
+9)
+	

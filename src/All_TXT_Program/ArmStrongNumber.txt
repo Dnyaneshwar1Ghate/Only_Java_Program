@@ -1,0 +1,22 @@
+public class ArmstrongNum{
+	public static void main(String args[]){
+		int num=153,a,b,c,sum=0;
+
+		c=num;
+		while(num>0)
+		{
+			a=num%10;
+			b=num/10;
+			sum=sum+(a*a*a);
+			num=b;
+		}
+	if(sum==c)
+	{
+	System.out.println("Given Number is Armstrong Number");
+	}
+	else
+	{
+	System.out.println("Given Number is Not Armstrong Number");	
+	}
+}
+}

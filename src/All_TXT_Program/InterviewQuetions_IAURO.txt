@@ -1,0 +1,15 @@
+
+1)What is Test Coverage?
+2)What is Test Automation Coverage in your Project?
+3)What is RTM?
+4)In Jenkins Where you see the Test Execution Reports?
+5)Which Tool you are Using for Storing Automation Scrits?
+6)As a Manual Tester when you get New User Story for testing then what is your Approch?
+7)How Many Total Team Members in Your Team?
+7)As a Tester when you get a new User Story from dev 1 day Before release and that is ctritical user story then what is your approch? 
+8)What is the New TechNology you are Currently learning?
+9)How would you Execute Automation Tests?
+
+9)Java Program Find the Second Largest Element in Array?
+10)Write Selenium Commands for Alert Handling?
+11)Write the Code for Window Handling in Selenium?

@@ -1,0 +1,30 @@
+CWC
+
+
+
+* TO Check create policy 
+* To Check edit policy and apply to the user
+* To Check Time Slot functionality 
+* To Check Category Control default Setting ON/OFF
+* To Check Category Control Setting ON & Catergory Exclude List 
+* To Check for Audit Mode Toggle Button (sites are not block only showing popup)
+* To Check the Content Filter Feature (add keywords to block )
+* To Check the Content Filter Feature (add keywords to block )-with Exclude domains 
+* To Check the Download control toggle button (Verify size limit text box is enabled or not )
+* To Check the Download control for Exclude list (add urls exclude from download control) 
+* To Check for the Attachment Control (user should  not able to attach file on FTP,GMAIL,WHTSAPP)
+* To Check for the Attachment Control (FOR Exclude IP Address)
+
+1)Allow All Mode
+2)Block All Mode
+3)Allow All Except Block list Mode
+4)Block All Except Allow list Mode
+5)URLS with Time Slot
+6)Attachment Control
+7)Internet App Blocking
+8)Exclude Process List
+9)Torrent Blocking
+10)Policy Schedule
+11)Search Filter 
+12)Gmail Attachment Control
+13)

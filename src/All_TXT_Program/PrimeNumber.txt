@@ -1,0 +1,26 @@
+public class PrimeNumber{
+public static void main(String args[])
+{
+	int num=1;
+	Boolean flag=false;
+
+	if(num<=1)
+	{
+		System.out.println("Number is Not Prime");
+	}
+	else{
+		for(int i=2;i<=num/2;i++)
+		{
+			if(num%i==0)
+			{
+				System.out.println("Number is Not Prime");
+				flag=true;
+				break;
+			}
+		}
+			if(flag==false)
+			{
+				System.out.println("Number is Prime");
+			}
+}	}
+}

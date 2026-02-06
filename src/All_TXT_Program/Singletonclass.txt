@@ -1,0 +1,30 @@
+class Singleton{
+
+	private static Singleton instance;
+
+	private Singleton(){
+	}
+
+	public static Singleton getInstance()
+	{
+		if(instance==null)
+		{
+			instance=new Singleton();
+		}	
+			return instance;
+	
+	}
+
+	public void showMsg()
+	{		
+		System.out.println("Singleton class");
+	}
+}
+
+public class main{
+	public static void main(String args[])
+	{
+		Singleton single=Singleton.getInstance();
+		single.showMsg();
+	}
+}

@@ -1,0 +1,15 @@
+test plan and test statergy
+regretion and retesting
+bug lifecycle
+
+SELECT * FROM(SELECT * FROM(SELECT * FROM(SELECT * FROM EMP ODDER BY SALARY DESC)WHERE ROWNUM<=3)ORDER BY SALARY)WHWRE ROWNUM=1;
+
+
+senrio: dropdown elements print 
+prime number program
+senario=we navigate on parent page then click on some btn then we navigate to child window then find the all links of child window
+
+sql=find the thired largest salary of emp table;
+
+api testing automation
+jenkins 

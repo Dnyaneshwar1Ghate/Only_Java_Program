@@ -1,0 +1,29 @@
+import java.util.regex.*;    
+import java.util.*;    
+
+public class EmailValidate
+{
+	public static void main(String args[])
+	{
+		ArrayList<String> emails=new ArrayList<String>();
+		emails.add("abc@gmail.com");
+		emails.add("abc123@gmail.com");
+		emails.add("123abc@gmail.com");
+		emails.add("@gmail.com");
+		emails.add("abc.@gmail.com");
+
+		String regx="^(.+)@(.+)$";
+		
+		Pattern pattern=Pattern.compile(regx);
+
+		for(String email:emails)
+		{
+			Matcher matcher=pattern.matcher(email);
+			System.out.println(email +" : " +matcher.matches());
+
+		}
+	}
+
+
+}
+

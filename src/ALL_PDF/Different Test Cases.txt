@@ -1,0 +1,24 @@
+Different Test Cases
+
+    Test Cases for Login Page
+    Test Cases for Registration Page
+    Test Cases for Password and Forgot Password
+    Test Cases for GMail
+    Test Cases for ATM
+    Test Cases for Text Box
+    Test Cases for Button
+    Test Cases for Checkbox
+    Test Cases for Radio Button
+    Test Cases for Dropdown
+    Test Cases for Header
+    Test Cases for Footer
+    Test Cases for Pen
+    Test Cases for Pencil
+    Test Cases for Water Bottle
+    Test Cases for AC Remote
+    Test Cases for Mobile Number
+    Test Cases for Smart TV
+    Test Cases for TV
+    Test Cases for Live Streaming
+    Test Cases for OTT
+    Test Cases for Library Management System

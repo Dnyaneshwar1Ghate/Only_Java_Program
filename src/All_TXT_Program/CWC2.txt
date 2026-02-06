@@ -1,0 +1,263 @@
+CWC 
+
+1)To check Installation of Corp web control |
+
+Run the client installer with Run As Administrator
+Verify it is ask for License key.
+Enter valid License key & click on Ok Button
+Verify it must show the Proper error message box.
+
+2)To check all DB and Files present in appropriate folders
+
+
+3)To check all sites are open
+
+Install CWC Setup
+Verify Svcstat.exe running in task manager
+Open any browser.
+Access any sites
+Verify all sites / URL's get opened
+
+4)To check device added on Web
+Install CWC Setup
+Verify Svcstat.exe running in task manager
+Open any browser.
+login to cwc.npav.net
+Verify device get added on device list.
+
+5)To check default Policy
+Install CWC Setup
+Verify Svcstat.exe running in task manager
+Open any browser.
+login to cwc.npav.net
+Verify device get added on device list.
+Default policy should be applied
+all sites should be allowed.
+
+6)To Check Apply policy to PC or User
+Install CWC Setup on Machine
+Open any browser.
+Login to cwc.napav.net
+Create policy
+Apply policy to PC or User
+Verify Policy get applied to PC or user after 15 min
+
+7)To Check Edit and apply policy to PC or User
+Open any browser.
+Login to cwc.napav.net
+Select device >> Edit Policy
+Verify edited policy get applied to PC or user after 15 min
+
+8)To check create policy
+Open Browser
+Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save
+Go to Time Slot tab
+Verify default Time slot is Always
+Click on save & Next button
+
+9)To check Time slot functionality
+Open Browser
+Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save
+Go to Time Slot tab
+default Time slot is Always
+Verify as per time slot all policy is working
+Click on save & Next button
+
+10)To check Restriction mode // Default - Allow All
+Open Browser
+Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save
+Go to Time Restriction Tab
+Verify default time slot is "Allow All"
+Verity it accept URLs to add Block List
+Click on save & Next button
+
+11)To check Restriction mode // Default - Block All
+Open Browser
+Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save
+Go to Time Restriction Tab
+Verify change restriction slot "Allow All" to Block all
+Verify it accept URLs to add in exclude list.
+Click on save & Next button
+
+12)To check allow all
+except Block List with Time Slot  // Time slot
+
+
+13)To check Category control default setting  // Default - OFF
+Open Browser
+Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save
+Go to Time Category Control Tab
+Verify Default category control OFF For Allow All Policy
+Click on save & Next button
+
+14)To check Category control default setting
+Category Control - ON
+
+15)To check Category control default setting
+Category Control - ON
+Category Exclude list
+
+Open Browser
+Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save.
+Go to Time Category Control Tab
+Create Policy as Allow All & turn ON category control
+Verify all Category check box are visible to tick
+Add some URLs in Categories Exclude List
+Verify exclude URLs get opened.
+Click on save & Next button
+
+16)To check all categories
+Open Browser
+Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save.
+Go to Time Category Control Tab
+Create Policy as Allow All & turn ALL ON category control
+Verify all Categories are working as expected.
+Click on save & Next button
+
+17)To check for Audit mode toggle Button
+(Report only, Blocking action will not taken)
+Audit = ON
+Open Browser
+Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save.
+Go to Time Category Control Tab
+Turn on Category control - tick
+Turn ON Audit Mode toggle Button
+Verify Audit Mode ON
+Click on save & Next button
+
+18)To check for Audit mode toggle Button
+(Report only, Blocking action will not taken)
+Audit = OFF
+Open Browser
+Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save.
+Go to Time Category Control Tab
+Turn on Category control - tick
+Turn OFF Audit Mode toggle Button
+Verify Audit Mode OFF
+Click on save & Next button
+
+19)To check Content Filter feature
+Content Filter = ON
+Open Browser
+Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save.
+Go to Time Category Control Tab
+Turn ON Content Filter toggle button
+Verify Content Filter toggle button get ON
+Add keywords to blocked
+Click on save & Next button
+
+
+20)To check Content Filter feature
+
+ Content Filter = OFF
+
+21)To check Content Filter feature
+
+Content Filter = ON
+
+Exclude domains
+
+22)To Check Download Control
+// Turn ON
+
+Open Browser
+Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save.
+Go to Time Category Control Tab
+Turn ON Download Control Toggle Button
+Verify Download control is ON
+Verify download size limit text box get enable.
+
+
+23)To Check Download Control
+
+ // Turn ON
+
+Exclude URLs
+
+
+24)To Check for Attachment Control.
+
+// Tick All checkbox
+
+FTP | GMAIL | WEB WHATSAPP
+
+Open Browser
+Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save.
+Go to Attachment Control Tab
+Tick on Attachments control check box
+Verify user not able to attach file file by any time
+
+25)To Check for Internet Application Control.
+Verify Default Internet Application control is OFF
+
+26)To Check for Internet Application Control.
+Internet Application Control = ON
+
+ Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save.
+Go to Internet Application control Tab
+Turn ON IAC Toggle Button.
+Verify Process Name list box get expanded
+Verify user able to add process in processes in list box
+Click on Save & Next button
+
+Process name list box get expanded
+Added process should be blocked.
+Setting should be save in web database under appropriate table
+
+
+Process Name (e.g. utorrent.exe,firefox.exe,chrome.exe) (Note: Press Enter key to add process name)
+
+27)To Check Exclude Process
+Exclude Process = ON
+Login cwc.npav.net with valid credentials
+Create Policy >>Enter policy name >> Save.
+Go to Internet Application control Tab
+Turn ON Exclude Process Toggle Button.
+Verify Exclude process list box get expanded
+Add Process to Exclude list
+Verify added process get allowed.
+Click on Save & exit
+
+
+28)To check Uninstall Device
+Login to CWC Web panel
+Select Device from device list
+Click on Uninstall Device
+Verify Corp Web control get uninstall from local pc
+
+29)To check Uninstall All Device
+Login to CWC Web panel
+Select all Device from device list
+Click on Uninstall Device
+Verify Corp Web control get uninstall from local pc
+
+30)To check Apply Policy With Time Slot
+Open any browser.
+Login to cwc.napav.net
+Click on Device List
+Select device & click on Users
+Select User & click on Apply Policy With Time Slot
+Select Default Policy & Special Policy
+Then Select Day/Time Scheduler
+Select Start & End Time
+Then Click on Set button
+Note : We can add multiple Time slot policy on same User
+
+31)
+
+
+
+
