@@ -4,10 +4,18 @@ public class IntegerDemo {
 
 	public static void main(String[] args) {
 		
-		int num=50600;
-		int x=(10,50);
-		System.out.println(num);
-		System.out.println(x);
+		String str="50600";
+		char []ch=str.toCharArray();
+		StringBuilder sb=new StringBuilder();
+		
+		for(int i=0;i<str.length();i++)
+		{
+			if(Character.getNumericValue(ch[i])!=0)
+			{
+				sb.append(ch[i]);
+			}
+		}
+		System.out.println(sb);
 		
 	}
 }
