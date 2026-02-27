@@ -4,10 +4,8 @@ public class StringDemo {
 
 	public static void main(String[] args) {
 
-		String st1="Hello";
-		StringBuffer db=new StringBuffer("ghate");
-		String newString=new StringBuffer("Hello").toString();
-		System.out.println(st1+" "+db);
+		int arr[]=new int[5];
+		System.out.println(arr);
 		
 	}
 }
