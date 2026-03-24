@@ -11,10 +11,12 @@ public class RevWithSamePos {
 		{
 			String temp=string[i];
 			String inRev=" ";
-			for(int j=temp.length()-1;j>0;j--)
+			for(int j=temp.length()-1;j>=0;j--)
 			{
-				rev=rev+;
+				inRev=inRev+temp.charAt(j);
 			}
+			rev=rev+inRev;
 		}
+		System.out.println(rev);
 	}
 }
