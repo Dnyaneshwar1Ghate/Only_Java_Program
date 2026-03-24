@@ -13,7 +13,7 @@ public class RevWithSamePos {
 			String inRev=" ";
 			for(int j=temp.length()-1;j>0;j--)
 			{
-				rev=rev+
+				rev=rev+;
 			}
 		}
 	}
