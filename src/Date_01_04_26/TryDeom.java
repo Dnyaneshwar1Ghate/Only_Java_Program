@@ -11,9 +11,6 @@ public class TryDeom {
 			System.out.println(e);
 
 		}
-		catch (ArithmeticException e) {
-			System.out.println(e);
-		}
 	}
 
 }
